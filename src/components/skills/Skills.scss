@@ -1,0 +1,90 @@
+.skills{
+   background: linear-gradient(90deg, #0B101B 0%, #1A2A3D 100%);
+   h1{
+      font-family: 'Bebas Neue', cursive;
+      background:linear-gradient(to right,#0ca9cddd 0%,
+      #0a5ccd 100%); /* color text en degrade */
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      display:inline-block;
+      font-size:60px;
+      letter-spacing: 10px;
+      padding-left: 280px;
+      padding-top: 80px;
+   }
+      p{
+      color: aliceblue;
+      padding-left: 600px;
+      font-size: 30px;
+      .skills_langue{
+         font-family: 'Poppins', sans-serif;
+         font-weight: 400;
+         background:linear-gradient(to right,#0ca9cddd 0%,
+         #0a5ccd 100%); /* color text en degrade */
+         -webkit-background-clip: text;
+         -webkit-text-fill-color: transparent;
+      }
+      }
+
+      .img_lg{
+         padding-top: 5px;
+         width: 300px;
+         padding-left: 610px;
+      }
+
+      .img_library{
+         padding-top: 30px;
+         width: 300px;
+         padding-left: 300px;
+      }
+
+    
+
+      .library{
+         font-family: 'Poppins', sans-serif;
+         font-weight: 700;
+         background:linear-gradient(to right,#0ca9cddd 0%,
+         #0a5ccd 100%); /* color text en degrade */
+         -webkit-background-clip: text;
+         -webkit-text-fill-color: transparent;
+         padding-top:80px;
+         
+      }
+
+      /*.design_text{
+         color: aliceblue;
+         font-size: 30px;
+         padding-left: 980px;
+         padding-bottom:20px;
+       
+    
+   }
+*/
+   .designt{
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      background:linear-gradient(to right,#0ca9cddd 0%,
+      #0a5ccd 100%); /* color text en degrade*/
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+
+   }
+      
+   .competence{
+      padding-left: 320px;
+      font-size: 30px;
+      color: antiquewhite;
+      .design{
+   
+         padding-left: 400px;
+      }
+      
+      
+   }
+
+   
+   .img_design{
+      width: 300px;
+      padding-left: 320px;
+   }
+}

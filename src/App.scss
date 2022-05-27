@@ -1,0 +1,32 @@
+.app{
+   height: 100vh;
+   width: 100%;
+
+
+   .frames{
+      width:100%;
+      height:calc(100vh - 70px);
+      background-color: aqua;
+      position:relative;
+      top: 70px;
+      scroll-behavior:smooth;  /*effet du scroll */
+      scroll-snap-type: y mandatory;
+      scrollbar-width: none; 
+
+      &::-webkit-scrollbar{
+         display: none;
+      }
+
+      > *{
+         width: 100%; 
+         height: calc(120vh - 70px);
+      }
+      
+   }
+
+}
+
+
+
+
+

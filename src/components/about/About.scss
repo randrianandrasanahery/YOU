@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.about{
+   background: linear-gradient(90deg, #0B101B 0%, #1A2A3D 100%);
+ 
+   .icone_right{
+      position: absolute;
+      right: 30px;
+      padding: 200px 120px; /*padding : haute droite*/
+   }
+  
+}
+
+.text_about_bidy{
+
+   padding:50px 160px ;
+   font-family: 'Poppins', sans-serif;
+   font-size: 20px;
+   font-weight: 800;
+
+
+   background: linear-gradient(to right, #5a6380 0%, #ffffff 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   
+
+
+   h1{
+      font-family: 'Bebas Neue', cursive;
+      background:linear-gradient(to right,#0ca9cddd 0%,
+      #0a5ccd 100%); /* color text en degrade */
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      display:inline-block;
+      font-size: 80px;
+   
+   }
+
+   
+   h2{
+      font-family: 'Poppins', sans-serif;
+      font-size: 30px;
+
+   
+      background: linear-gradient(to right, #5a6380 0%, #ffffff 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+
+      .name_of_bidy{
+         font-family: 'Poppins', sans-serif;
+         background:linear-gradient(to right,#0ca9cddd 0%,
+         #0a5ccd 100%); /* color text en degrade */
+         -webkit-background-clip: text;
+         -webkit-text-fill-color: transparent;
+         font-size: 35px;
+      
+      }
+      
+   }
+}
+
+
+
+
