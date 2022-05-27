@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="YOU" src="./LOGO (3).png" />
+</div>
+
 # You-TechJS
 This is the project `YOU` , a project that contains five portfolios
 
