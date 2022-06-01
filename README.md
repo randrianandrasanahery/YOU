@@ -8,7 +8,7 @@ This is the project `YOU` , a project that contains five portfolios
 **To view this project, you can run:**
 
 ### `npm start`
-Runs the app in the development mode.\
+Run the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## MEMBERS
