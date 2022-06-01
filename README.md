@@ -19,4 +19,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - [RABEMANANTSOA Sedra Ny Aina Barthélemy IMTICIA 3 n11](https://www.linkedin.com/in/sedra-ny-aina-rabemanantsoa-980635235/)
 
 ## NOTE
-**This project is still in development, since there, you can view our model** [here](https://www.figma.com/file/x2tCoJQ5I2tHFEiQQQGMm1/TechJS-backend?node-id=0%3A1)
+**This project was paused, since there, you can view our model** [here](https://www.figma.com/file/x2tCoJQ5I2tHFEiQQQGMm1/TechJS-backend?node-id=0%3A1)
